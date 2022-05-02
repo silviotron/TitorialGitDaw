@@ -1,0 +1,11 @@
+# git init
+# git config --global user.name “nomeUsuario”
+# git config --global user.email “emailUsuario”
+# git config --list
+# git status
+# git add .
+# git commit -m “comentario”
+# git branch
+# git remote
+# git push -u
+# git log
